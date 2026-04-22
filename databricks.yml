@@ -1,0 +1,10 @@
+bundle:
+  name: E-commerce-Orders-Delta-Pipeline
+
+targets:
+  dev:
+    default: true
+    mode: development
+    workspace: 
+      host: https://dbc-4bb04056-9caf.cloud.databricks.com/
+
